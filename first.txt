@@ -1,3 +1,6 @@
 This is the version 1 of my project
 I want to go to commit 2 by doing some changes
-Again done some changes to improve the design and looks of the project..
+Again done some changes to
+
+Hello world this is a great way to express yourself nd the things we love to do.
+ improve the design and looks of the project..
