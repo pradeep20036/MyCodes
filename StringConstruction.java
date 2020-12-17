@@ -16,7 +16,7 @@ public class StringConstruction {
     {
         String p="";
         int presence[]=new int[26];
-
+        int a=4;
         int cost=0;
         for(int i=0;i<input.length();i++ )
         {
