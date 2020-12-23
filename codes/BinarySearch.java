@@ -2,9 +2,8 @@ package codes;
 
 public class BinarySearch {
     public static void main(String[] args) {
-
-        int arr[]={0,0,0,0,0,1};
-        System.out.println(first(arr,0,arr.length-1));
+        String str="ABCDABCD";
+        System.out.println(str.indexOf("BCDrA"));
     }
 
     static int first(int arr[],int left,int right)

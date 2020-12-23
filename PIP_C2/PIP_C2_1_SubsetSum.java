@@ -1,5 +1,4 @@
 package PIP_C2;
-
 import java.util.Scanner;
 
 public class PIP_C2_1_SubsetSum {
@@ -21,7 +20,6 @@ public class PIP_C2_1_SubsetSum {
             else
             System.out.println("No");
         }
-
     }
 
     static boolean checkSubsetSum(int arr[],int target)
@@ -48,9 +46,7 @@ public class PIP_C2_1_SubsetSum {
                     dp[i][j]=dp[i-1][j];
             }
         }
-
         return dp[arr.length][target];
-
     }
 
 
