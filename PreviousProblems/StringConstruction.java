@@ -1,3 +1,5 @@
+package PreviousProblems;
+
 import java.util.Scanner;
 
 public class StringConstruction {

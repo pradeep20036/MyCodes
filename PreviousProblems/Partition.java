@@ -1,3 +1,5 @@
+package PreviousProblems;
+
 public class Partition {
     public static void main(String[] args) {
         int arr[]={20,30,5,1,7,8,9,4};

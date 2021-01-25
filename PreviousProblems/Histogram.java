@@ -1,3 +1,5 @@
+package PreviousProblems;
+
 import java.util.Stack;
 
 public class Histogram {
